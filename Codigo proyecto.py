@@ -1,5 +1,5 @@
-# cliente_celect.py - CElect: Administrador de Máquina Dispensadora
-# Python (PC) - Tkinter GUI con conexión WiFi
+# CElect: Administrador de Máquina Dispensadora
+# Tkinter GUI con conexión WiFi
 # CE-1104 Fundamentos de Sistemas Computacionales
 
 import tkinter as tk
